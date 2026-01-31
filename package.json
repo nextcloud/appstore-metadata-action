@@ -12,7 +12,7 @@
   "license": "MIT",
   "description": "Get metadata of the latest version of an app from Nextcloud app store",
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.0",
     "semver": "^7.7.2"
   },
   "devDependencies": {
