@@ -62,7 +62,7 @@ tarball:
 
 - name: Get collectives app from app store
   id: collectives-app
-  uses: nextcloud/appstore-metadata-action@1873692fd1b3c198b3c57280462ed6ac7d6dde0a # v1.0.0
+  uses: nextcloud/appstore-metadata-action@b651fa03595995197f8075a9dde2e7b9be328a56 # v1.0.0
   with:
     appid: collectives
     server_major: 31
