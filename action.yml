@@ -19,5 +19,5 @@ outputs:
     description: Download URL of the release tarball
 
 runs:
-  using: node20
+  using: node24
   main: dist/index.js
